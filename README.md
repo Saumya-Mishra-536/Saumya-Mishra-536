@@ -1,10 +1,4 @@
-👋 Hi, I’m Saumya Mishra
-
-👀 I’m interested in coding, creating, research, and interdisciplinary work
-
-🌱 I’m currently studying Generative AI, System Design, and Data & Visual Analytics (DVA)
-
-💞️ I’m open to collaborating on innovative and impactful projects
+👋 Hi, I’m Saumya Mishra. I’m interested in coding, creating, research, and interdisciplinary work.I’m currently studying Generative AI, System Design, and Data & Visual Analytics (DVA).I’m open to collaborating on innovative and impactful projects
 
 📫 Reach me at mishraedu2020@gmail.com
 <!---
