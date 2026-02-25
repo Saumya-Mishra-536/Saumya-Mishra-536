@@ -4,18 +4,14 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1400&color=36BCF7&center=true&vCenter=true&width=650&lines=I+am+Saumya+Mishra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1400&color=36BCF7&center=true&vCenter=true&width=750&lines=Saumya+Mishra+%7C+Aspiring+Data+Scientist" />
 </h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1400&color=A020F0&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Building+data-driven+solutions;Curious+researcher+%26+analytical+thinker" />
-</p>
 
 ---
 
 ## ✦ About Me
-I’m an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights.  
-I enjoy research, analytical thinking, and building solutions across the full-stack + data ecosystem.
+I’m passionate about transforming raw data into meaningful insights and building impactful tech solutions.  
+Curious learner exploring **Machine Learning, Analytics, and Full Stack development**.
 
 ---
 
@@ -50,16 +46,12 @@ I enjoy research, analytical thinking, and building solutions across the full-st
 ---
 
 ## ✦ Current Focus
-- Machine Learning fundamentals  
+- Machine Learning foundations  
 - Data analytics projects  
 - Research-driven problem solving  
-- Strengthening full-stack + data integration  
+- Full-stack + data integration  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" />
-</p>
 
 <p align="center">
   <i>Turning data into insights and insights into impact.</i>
