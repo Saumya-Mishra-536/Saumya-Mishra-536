@@ -1,14 +1,19 @@
+<!-- ================== TYPING ANIMATION ================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+👋;I+am+Saumya+Mishra;Aspiring+Data+Scientist;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋" />
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=I+am+Saumya+Mishra;Aspiring+Data+Scientist;Welcome+to+my+GitHub" />
+</h2>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎯 Aspiring **Data Scientist**
-- 🌱 Currently learning **Machine Learning & Data Analytics**
-- 🚀 Passionate about building data-driven solutions
-- 💡 Love research, problem solving & innovation
+✨ Aspiring **Data Scientist** passionate about solving real-world problems with data  
+🚀 Exploring **Machine Learning & Analytics**  
+🔬 Curious learner who loves research & innovation  
+💡 Building skills across full-stack + data ecosystem  
 
 ---
 
@@ -39,31 +44,33 @@
 ---
 
 ## 🧠 Soft Skills
-- ⭐ Leadership  
-- 💬 Communication  
-- 🔬 Research  
-- 📈 Analytical Thinking  
+⭐ Leadership  
+💬 Communication  
+🔬 Research  
+📈 Analytical Thinking  
 
 ---
 
-## 📊 GitHub Stats
+## 🌸 Profile Highlights
+✨ Data-driven mindset  
+✨ Problem solver  
+✨ Collaborative learner  
+✨ Continuous improvement believer  
+
+---
+
+## 👀 Profile Views
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌟 Dev Quote
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
 
-## 🌟 Quote
-> Turning data into insights and insights into impact.
-
----
-
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+<p align="center">✨ Turning data into insights and insights into impact ✨</p>
