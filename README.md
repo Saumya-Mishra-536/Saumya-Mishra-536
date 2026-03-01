@@ -20,7 +20,6 @@
 <a href="https://github.com/Saumya-Mishra-536">
   <img src="https://img.shields.io/badge/GitHub-Saumya--Mishra--536-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Saumya-Mishra-536&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
 
 </div>
 
