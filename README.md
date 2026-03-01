@@ -103,7 +103,7 @@ saumya = {
 | [🎬 Video Captions Generator](https://github.com/Saumya-Mishra-536/Video_Captions_Generator) | Upload MP4 → auto-generate captions → render onto video with Remotion | JavaScript |
 | [💬 Threaded Comment System](https://github.com/Saumya-Mishra-536/Threaded-Comment-System) | Nested replies with curved connector lines, built with React + Express | JavaScript |
 | [🛒 StayFinder02](https://github.com/Saumya-Mishra-536/StayFinder02) | Full-stack stay/listing finder app | JavaScript |
-| [📈 Blinkit Analytics](https://github.com/Saumya-Mishra-536/Blinkit_Analytics_Center) | Data analytics center for Blinkit-style insights | — |
+| [📈 Blinkit Analytics](https://github.com/Saumya-Mishra-536/Blinkit_Analytics_Center) | Data analytics center for Blinkit-style insights | Excel,Looker Studio |
 
 ---
 
