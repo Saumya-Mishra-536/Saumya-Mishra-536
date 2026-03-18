@@ -111,9 +111,11 @@ saumya = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Mishra-536&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishra-536&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0a0b0&border_color=1a1a2e&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Saumya-Mishra-536&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0a0b0&dates=a0a0b0&border=1a1a2e" width="48%"/>
 
 </div>
+
 
 ---
 
