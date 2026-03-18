@@ -107,15 +107,24 @@ saumya = {
 
 ---
 
-## ✦ GitHub Activity
+✦ Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishra-536&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0a0b0&border_color=1a1a2e&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Saumya-Mishra-536&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0a0b0&dates=a0a0b0&border=1a1a2e" width="48%"/>
+> *"Data is the new oil — but only if you know how to refine it."*
+
+<br/>
+
+| 🔍 Curious | 🛠️ Builder | 📊 Analyst | 🌐 Connector |
+|:---:|:---:|:---:|:---:|
+| Always asking why | Turning ideas into products | Finding signal in noise | Bridging tech & domain knowledge |
+
+<br/>
+
+*I believe the best solutions live at the intersection of disciplines —*
+*where a data scientist thinks like a designer, and an engineer thinks like a storyteller.*
 
 </div>
-
 
 ---
 
