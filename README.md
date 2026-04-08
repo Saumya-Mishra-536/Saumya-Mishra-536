@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm Saumya Mishra
-</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20I%20am%20Saumya%20Mishra;Adversarial%20Machine%20Learning%20Researcher;Deep%20Learning%20Enthusiast&center=true&width=500&height=50">
