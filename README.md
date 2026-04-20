@@ -74,52 +74,6 @@ saumya = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 [InsightMart](https://github.com/Saumya-Mishra-536/InsightMart) — E-Commerce Analytics Dashboard
-> Full-stack dashboard helping e-commerce sellers understand how pricing, discounts, ratings, and sales trends drive product performance.
-
-**Key Features:**
-- 🔐 JWT auth + Google OAuth + role-based access (Seller / Customer)
-- 📈 Interactive Chart.js dashboards for revenue, product trends & spending patterns
-- 🛒 Full CRUD product management with search, sort, filter & pagination
-- 🤖 Lightweight ML module for sales prediction based on product attributes
-- 🌐 Deployed on Vercel (frontend) + Render (backend) + MongoDB Atlas
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Chart.js` `Vercel` `Render`
-
-🔗 **Live:** [insight-mart.vercel.app](https://insight-mart-3aor.vercel.app)
-
----
-
-### 🎬 [Video Captions Generator](https://github.com/Saumya-Mishra-536/Video_Captions_Generator)
-> Local web app that lets users upload an MP4, auto-generates captions from the audio, and renders them onto the video using Remotion.
-
-**Stack:** `JavaScript` `Remotion` `Web APIs`
-
----
-
-### 💬 [Threaded Comment System](https://github.com/Saumya-Mishra-536/Threaded-Comment-System)
-> Modern, responsive nested comment UI with curved SVG connector lines, infinite reply depth, and a beautiful interface.
-
-**Stack:** `React.js` `Express.js` `JavaScript` `CSS`
-
----
-
-### 🏠 [StayFinder02](https://github.com/Saumya-Mishra-536/StayFinder02)
-> Full-stack stay/listing finder application for searching and browsing accommodations.
-
-**Stack:** `JavaScript` `React.js` `Node.js`
-
----
-
-### 📦 [Blinkit Analytics Center](https://github.com/Saumya-Mishra-536/Blinkit_Analytics_Center)
-> Data analytics dashboard built to derive actionable insights from Blinkit-style e-commerce data.
-
-**Stack:** `Excel` `Looker Studio` `Data Analytics`
-
----
-
 ## 📌 Current Focus
 
 ```
