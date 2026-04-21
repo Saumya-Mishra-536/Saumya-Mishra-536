@@ -93,7 +93,7 @@ saumya = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishra-536&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0a0b0" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Mishra-536&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0a0b0" height="160" />
-![Badge Name](badge-image-url)
+
 </div>
 
 ---
